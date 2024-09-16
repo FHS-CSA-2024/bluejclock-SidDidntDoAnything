@@ -4,7 +4,10 @@ public class ClockDisplay
     //Implement 2 private NumberDisplay objects. 
     //  One for hours and one for minutes
     //Implement a private String for the display
+    private String display;
 
+    public ClockDisplay() {
+        
     //Implement a constructor that takes no parameters
     //The constructor should set hours as a NumberDisplay object with 24 as the limit
     //The constructor should set minutes as a NumberDisplay object with 60 as the limit
