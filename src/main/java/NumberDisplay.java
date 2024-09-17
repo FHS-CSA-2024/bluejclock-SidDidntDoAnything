@@ -33,9 +33,13 @@ else {
 //Implement a function getDisplayValue that take no parameters and returns a String.
 //  The return string should be formatted as a two digit number
 //  If the number is less than 10 it should return a 0 before the number.
-
+public String getDisplayValue(){
+    
+    
+    
 
 //Implement a method increment that takes no parameters and returns nothing. 
 //  This function should increase value by 1, unless it reaches the limit.
 //  It should reset to 0 if the limit is reached
+    
 }
